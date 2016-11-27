@@ -1,0 +1,35 @@
+VERSION 27.11.2016 13:48:20
+FIG #\\VBOXSVR\spb\Documents\Microwave_design\analog_design\Resistors\DB_with_salicide470Ohm.MSK
+BB(28,-8,71,39)
+SIMU #5.00
+REC(28,-8,43,47,OP,0)
+REC(32,19,2,2,CO)
+REC(32,11,2,2,CO)
+REC(31,-5,2,2,CO)
+REC(66,11,2,2,CO)
+REC(66,19,2,2,CO)
+REC(66,27,2,2,CO)
+REC(66,35,2,2,CO)
+REC(66,-5,2,2,CO)
+REC(31,35,2,2,CO)
+REC(66,3,2,2,CO)
+REC(32,3,2,2,CO)
+REC(32,27,2,2,CO)
+REC(30,34,39,4,PO)
+REC(31,10,38,4,PO)
+REC(31,2,38,4,PO)
+REC(31,18,38,4,PO)
+REC(30,-6,39,4,PO)
+REC(31,26,38,4,PO)
+REC(30,34,4,4,ME)
+REC(65,-6,4,12,ME)
+REC(31,18,4,12,ME)
+REC(65,10,4,12,ME)
+REC(31,2,4,12,ME)
+REC(65,26,4,12,ME)
+REC(30,-6,4,4,ME)
+TITLE 34 36  #s1
+$- 1000 0 
+TITLE 31 -4  #s3
+$- 1000 0 
+FFIG \\VBOXSVR\spb\Documents\Microwave_design\analog_design\Resistors\DB_with_salicide470Ohm.MSK
