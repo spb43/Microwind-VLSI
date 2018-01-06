@@ -1,0 +1,44 @@
+Added Component: Designator=U?(RN2483)
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=NetP1_2 Pin=U?-2
+Added Pin To Net: NetName=NetP1_3 Pin=U?-3
+Added Pin To Net: NetName=NetP1_4 Pin=U?-4
+Added Pin To Net: NetName=NetP1_4 Pin=U?-5
+Added Pin To Net: NetName=NetP1_6 Pin=U?-6
+Added Pin To Net: NetName=NetP1_7 Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=NetP1_9 Pin=U?-9
+Added Pin To Net: NetName=NetP1_10 Pin=U?-10
+Added Pin To Net: NetName=GND Pin=U?-11
+Added Pin To Net: NetName=+3V6 Pin=U?-12
+Added Pin To Net: NetName=NetP1_13 Pin=U?-13
+Added Pin To Net: NetName=NetP1_14 Pin=U?-14
+Added Pin To Net: NetName=GND Pin=U?-20
+Added Pin To Net: NetName=GND Pin=U?-21
+Added Pin To Net: NetName=GND Pin=U?-22
+Added Pin To Net: NetName=NetJ1_1 Pin=U?-23
+Added Pin To Net: NetName=GND Pin=U?-24
+Added Pin To Net: NetName=NetJ2_1 Pin=U?-25
+Added Pin To Net: NetName=GND Pin=U?-26
+Added Pin To Net: NetName=GND Pin=U?-27
+Added Pin To Net: NetName=GND Pin=U?-28
+Added Pin To Net: NetName=NetP2_1 Pin=U?-30
+Added Pin To Net: NetName=NetP2_2 Pin=U?-31
+Added Pin To Net: NetName=NetP2_3 Pin=U?-32
+Added Pin To Net: NetName=GND Pin=U?-33
+Added Pin To Net: NetName=+3V6 Pin=U?-34
+Added Pin To Net: NetName=NetP2_6 Pin=U?-35
+Added Pin To Net: NetName=NetP2_7 Pin=U?-36
+Added Pin To Net: NetName=NetP2_8 Pin=U?-37
+Added Pin To Net: NetName=NetP2_9 Pin=U?-38
+Added Pin To Net: NetName=NetP2_10 Pin=U?-39
+Added Pin To Net: NetName=NetP2_11 Pin=U?-40
+Added Pin To Net: NetName=GND Pin=U?-41
+Added Pin To Net: NetName=NetP2_12 Pin=U?-43
+Added Pin To Net: NetName=NetP2_13 Pin=U?-44
+Added Pin To Net: NetName=NetP2_14 Pin=U?-45
+Added Pin To Net: NetName=NetP2_15 Pin=U?-46
+Added Pin To Net: NetName=GND Pin=U?-47
+Added Member To Class: ClassName=RN2483 Member=Component U? RN2483
+Added Room: Name=Connectors
+Added Room: Name=RN2483
